@@ -302,6 +302,7 @@ input.before {
 
 #banner-pic {
   position: relative;
+  background: url("img/banner3.jpg") center top no-repeat;
 }
 
 .language-selector {
